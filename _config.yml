@@ -1,5 +1,5 @@
 # Site settings
-title: PHOTORAMA
+title: PHOTOFOLIO
 email: ""
 description: "Photo Journal"
 url: "https://kkonovodoff.github.io"
@@ -15,7 +15,7 @@ share: true
 
 # Owner/author information
 owner:
-  name:   photorama
+  name:   photofolio
   avatar: avatar.png
   favicon: favicon.ico
   info: photography website template
@@ -33,9 +33,9 @@ comments :
 
 # Internal nav
 nav:
-  - GALLERY: "https://kkonovodoff.github.io/photorama/gallery/"  
-  - JOURNAL: "https://kkonovodoff.github.io/photorama/journal/"
-  - ABOUT: "https://kkonovodoff.github.io/photorama/about/"
+  - GALLERY: "https://kkonovodoff.github.io/photofolio/gallery/"  
+  - JOURNAL: "https://kkonovodoff.github.io/photofolio/journal/"
+  - ABOUT: "https://kkonovodoff.github.io/photofolio/about/"
 
 # All translation keys
 translations:
